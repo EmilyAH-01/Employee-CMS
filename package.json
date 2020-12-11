@@ -1,0 +1,17 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "description": "CMS allowing viewing and editing of employee data",
+  "main": "employeeTracker.js",
+  "dependencies": {},
+  "devDependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "console.table": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emily Herman",
+  "license": "ISC"
+}
